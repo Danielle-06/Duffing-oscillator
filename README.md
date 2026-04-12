@@ -1,6 +1,6 @@
 This folder contains the execution and analysis of the Duffing-oscillator research practicum.
 
-The folder "Graphs" contains all the code exported figures.
+The folder "Graphs" contains all the code exported figures to be used in the article.
 
 The folder "Theoretical calculations" includes the verifications marked as 'verify' in the assigment document. These verifications were also incorporated into the article.
 
